@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|c:\\users\\puri rakesh\\onedrive\\desktop\\model view controller(mvc)\\slides\\slides\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|solutionrelative:slides\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\ds\\slidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|solutionrelative:slides\\ds\\slidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\bll\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|solutionrelative:slides\\bll\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|solutionrelative:slides\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\views\\shared\\topslider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|solutionrelative:slides\\views\\shared\\topslider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|solutionrelative:slides\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|solutionrelative:slides\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B85F6A6-F78F-467B-8BA2-238701CD5C11}|slides\\slides.csproj|solutionrelative:slides\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "slides\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "slides\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:53:16.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TopSlider.cshtml",
+              "DocumentMoniker": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Views\\Shared\\TopSlider.cshtml",
+              "RelativeDocumentMoniker": "slides\\Views\\Shared\\TopSlider.cshtml",
+              "ToolTip": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Views\\Shared\\TopSlider.cshtml",
+              "RelativeToolTip": "slides\\Views\\Shared\\TopSlider.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T08:55:41.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\BLL\\Services.cs",
+              "RelativeDocumentMoniker": "slides\\BLL\\Services.cs",
+              "ToolTip": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\BLL\\Services.cs",
+              "RelativeToolTip": "slides\\BLL\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:56:35.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderContext.cs",
+              "DocumentMoniker": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\DS\\SliderContext.cs",
+              "RelativeDocumentMoniker": "slides\\DS\\SliderContext.cs",
+              "ToolTip": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\DS\\SliderContext.cs",
+              "RelativeToolTip": "slides\\DS\\SliderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:01:53.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "slides\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Models\\Slider.cs",
+              "RelativeToolTip": "slides\\Models\\Slider.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:50:16.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "slides\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "slides\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:20:18.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "slides\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "slides\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:01:50.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "slides\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PURI RAKESH\\OneDrive\\Desktop\\Model View Controller(MVC)\\slides\\slides\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "slides\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:49:50.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
